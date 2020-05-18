@@ -1,9 +1,9 @@
 # BootsTrap Template with Gulp Task and BrowserSync
 
-This is a template already configured for initiates, to develop html web projects in a local development environment. It is already configured to use Bootstrap, scss, glup and browserSync.
+This is a template already configured for initiates, to develop html web projects in a local development environment. It is already configured to use Bootstrap, scss, gulp and browserSync.
 
 ## Starting. 🚀
-This project includes a configuration for you to do your Web developments in a local environment. You can work on your projects obtaining an automatic deployment in scss, bootstrap, js and html. It is configured under a NodeJs server, a task manager called Glup, and BrowserSync that allows the browser to update automatically every time you make a change in your web development.
+This project includes a configuration for you to do your Web developments in a local environment. You can work on your projects obtaining an automatic deployment in scss, bootstrap, js and html. It is configured under a NodeJs server, a task manager called gulp, and BrowserSync that allows the browser to update automatically every time you make a change in your web development.
 
 ## Pre requirements. 📋
 
@@ -23,14 +23,14 @@ cd project-example
 Then you can clone this repository in your folder by copying the link.
 
 ```
-git clone https://github.com/jcrrtech/bootstrap-template-glup-server.git
+git clone https://github.com/jcrrtech/bootstrap-template-gulp-server.git
 ```
 
 ## Installation. 🔧
 Now that you have the files in the folder, you should direct created by cloning the repository.
 
 ```
-cd bootstrap-template-glup-server
+cd bootstrap-template-gulp-server
 ```
 
 Then you must start the project with the command "npm" to install dempencias.
@@ -49,7 +49,7 @@ Now to start the server from the project folder you must run the command "npm st
 npm start
 ```
 
-Automatically Glup tasks and BrowserSync server will be executed. A browser window will open with the test page. Now all you have to do is edit the "index.html" file and you will see the changes immediately in the web browser.
+Automatically gulp tasks and BrowserSync server will be executed. A browser window will open with the test page. Now all you have to do is edit the "index.html" file and you will see the changes immediately in the web browser.
 
 You can also see that the css and js folder are automatically created. Which will contain what you need for your website, such as Bootstrap, Jquery, Popper.js.
 
